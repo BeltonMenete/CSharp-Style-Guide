@@ -2,7 +2,7 @@
 
 ## Class Names
 
-<mark>Do not</mark> use **PascalCasing** for class names and method names.
+<mark>Do </mark> use **PascalCasing** for class names and method names.
 
 ````csharp
 public class ClientActivity
